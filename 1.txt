@@ -1,1 +1,7 @@
-1
+Запуск касандры:
+1. docker start cassandra
+2. doker exec -it cassandra sqlsh
+
+Остановка касандры:
+1. docker stop cassandra
+2. нажать на зеленую кнопочку внизу "codespaces" и выбрать пункт stop current codespaces.
